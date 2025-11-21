@@ -86,11 +86,15 @@ Output
 
 The program prints:
 
-C
+For Testcase 1 : 4
+
+For Testcase 2 : 995085094601491
+
 
 
 A single integer — the constant term of the polynomial.
 
 Author
+
 
 This project was developed as part of a backend coding assignment using Java.
